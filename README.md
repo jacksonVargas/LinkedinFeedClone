@@ -1,6 +1,6 @@
 # LinkedinFeedClone
 
-Um clone do feed do Linkedin feito com HTML5 e TailwindCss apenas versão para desktop.
+Um clone do feed do Linkedin feito com HTML5 e TailwindCss apenas versão para desktop. Publiquei o projeto no github pages para vocês darem uma olhada.
 
 ![feed](https://github.com/jacksonVargas/LinkedinFeedClone/assets/93093923/efcf6f26-b2eb-4b24-a1bb-f0199178dd78)
 
